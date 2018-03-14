@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 237925c23d0b0454cb850eba4d39bc34
+timeCreated: 1497241540
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - squishedSquirrel: {instanceID: 0}
+  - timeberry_particle: {fileID: 1582826020851620, guid: 2112e762ebaa9b04dbd8d854b99b5c27,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

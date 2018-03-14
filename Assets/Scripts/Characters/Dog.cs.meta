@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ce5fe22a6ca704468afa5845036c3960
+timeCreated: 1497320423
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - lvlctrl: {instanceID: 0}
+  - dog_sound: {fileID: 82091841180913170, guid: 9e0a6f83199f54f458461ca4ee51c48c,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

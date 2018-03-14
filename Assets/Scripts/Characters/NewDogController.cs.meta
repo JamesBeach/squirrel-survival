@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 56435d7e2db7347829081b8f5d7eee02
+timeCreated: 1497321454
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - dog_bark: {fileID: 82091841180913170, guid: 9e0a6f83199f54f458461ca4ee51c48c,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
