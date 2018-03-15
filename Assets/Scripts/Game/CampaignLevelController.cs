@@ -59,7 +59,7 @@ public class CampaignLevelController : LevelController
     }
 
     // Use this for initialization
-    protected void Start()
+    protected override void Start()
 	{
         base.Start();
 
